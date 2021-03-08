@@ -14,7 +14,6 @@ body {
     background: #2999ed;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
     text-align: center;
